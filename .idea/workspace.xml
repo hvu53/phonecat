@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9e425b7-6501-49fe-8852-3e334c94928d" name="Default" comment="xhrs &amp; dependency injection&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/phone-details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/phone-list.html" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/controllersSpec.js" afterPath="$PROJECT_DIR$/test/unit/controllersSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/phone-details.html" afterPath="$PROJECT_DIR$/app/partials/phone-details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/phone-list.html" afterPath="$PROJECT_DIR$/app/partials/phone-list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/e2e/scenarios.js" afterPath="$PROJECT_DIR$/test/e2e/scenarios.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -42,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone-list.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/phone-list.html">
+      <file leaf-file-name="phone-details.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/phone-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="848" selection-end="848" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="420">
+            <state line="93" column="29" selection-start="2625" selection-end="2625" vertical-scroll-proportion="-15.125" vertical-offset="1032" max-vertical-offset="1770">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone-details.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/phone-details.html">
+      <file leaf-file-name="phone-list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/partials/phone-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="21" column="14" selection-start="851" selection-end="851" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
@@ -69,19 +68,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllersSpec.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="controllersSpec.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/unit/controllersSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="7" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="47" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.7863248" vertical-offset="153" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scenarios.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="scenarios.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/e2e/scenarios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="3" selection-start="2267" selection-end="2267" vertical-scroll-proportion="1.3846154" vertical-offset="3" max-vertical-offset="1065">
+            <state line="51" column="50" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="1065">
               <folding />
             </state>
           </provider>
@@ -90,10 +89,8 @@
       <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding>
-                <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-              </folding>
+            <state line="20" column="8" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,22 +108,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/css/app.css" />
         <option value="$PROJECT_DIR$/config/karma-e2e.conf.js" />
         <option value="$PROJECT_DIR$/config/karma.conf.js" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/partials/phone-list.html" />
+        <option value="$PROJECT_DIR$/app/css/app.css" />
         <option value="$PROJECT_DIR$/app/partials/phone-details.html" />
         <option value="$PROJECT_DIR$/app/js/controllers.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/test/unit/controllersSpec.js" />
         <option value="$PROJECT_DIR$/test/e2e/scenarios.js" />
+        <option value="$PROJECT_DIR$/test/unit/controllersSpec.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="815" />
-    <option name="y" value="126" />
+    <option name="x" value="895" />
+    <option name="y" value="48" />
     <option name="width" value="1459" />
     <option name="height" value="1178" />
   </component>
@@ -228,24 +225,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -384,11 +363,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="815" y="126" width="1459" height="1178" extended-state="0" />
-    <editor active="true" />
+    <frame x="895" y="48" width="1459" height="1178" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861897" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32780847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32780847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17246175" sideWeight="0.8255208" order="0" side_tool="false" content_ui="combo" />
@@ -480,9 +459,7 @@
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding>
-            <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -510,9 +487,7 @@
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding>
-            <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -526,9 +501,7 @@
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="8" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="435">
-          <folding>
-            <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -556,9 +529,7 @@
     <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="8" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="435">
-          <folding>
-            <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -597,13 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="290" selection-end="290" vertical-scroll-proportion="0.48600882" vertical-offset="0" max-vertical-offset="679">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/phones/phones.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="133" column="5" selection-start="5811" selection-end="5811" vertical-scroll-proportion="0.5263158" vertical-offset="1645" max-vertical-offset="2415">
@@ -625,22 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding>
-            <marker date="1395343505000" expanded="true" signature="383:500" placeholder="[...]" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/phone-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="848" selection-end="848" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="8" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -648,9 +596,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/phone-details.html">
+    <entry file="file://$PROJECT_DIR$/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="655">
+        <state line="56" column="14" selection-start="810" selection-end="810" vertical-scroll-proportion="0.4871795" vertical-offset="498" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>
@@ -662,16 +610,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/controllersSpec.js">
+    <entry file="file://$PROJECT_DIR$/app/partials/phone-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="7" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+        <state line="93" column="29" selection-start="2625" selection-end="2625" vertical-scroll-proportion="-15.125" vertical-offset="1032" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/phone-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="14" selection-start="851" selection-end="851" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="8" selection-start="628" selection-end="628" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/e2e/scenarios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="3" selection-start="2267" selection-end="2267" vertical-scroll-proportion="1.3846154" vertical-offset="3" max-vertical-offset="1065">
+        <state line="51" column="50" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.0" vertical-offset="363" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/controllersSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.7863248" vertical-offset="153" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
