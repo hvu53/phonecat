@@ -1,38 +1,37 @@
 module.exports = function(config){
-  config.set({
-    basePath : '../',
+    config.set({
+        basePath : '../',
 
-    files : [
-      'app/lib/angular/angular.js',
-      'app/lib/angular/angular-*.js',
-      'app/js/**/*.js',
-      'test/unit/**/*.js'
-    ],
+        files : [
+            'app/lib/angular/angular.js',
+            'app/lib/angular/angular-*.js',
+            'app/js/**/*.js',
+            'test/unit/**/*.js'
+        ],
 
-    exclude : [
-      'app/lib/angular/angular-loader.js',
-      'app/lib/angular/*.min.js',
-      'app/lib/angular/angular-scenario.js'
-    ],
+        exclude : [
+            'app/lib/angular/angular-loader.js',
+            'app/lib/angular/*.min.js',
+            'app/lib/angular/angular-scenario.js'
+        ],
 
-    autoWatch : true,
+        autoWatch : true,
 
-    frameworks: ['jasmine'],
+        frameworks: ['jasmine'],
 
-    browsers : ['Chrome'],
+        browsers : ['Firefox'],
 
-    plugins : [
-            'karma-jasmine',
-            'karma-coverage',
+        plugins : [
             'karma-junit-reporter',
             'karma-chrome-launcher',
             'karma-firefox-launcher',
-            'karma-script-launcher'
-            ],
+            'karma-script-launcher',
+            'karma-jasmine'
+        ],
 
-    junitReporter : {
-      outputFile: 'test_out/unit.xml',
-      suite: 'unit'
-    }
-  });
+        junitReporter : {
+            outputFile: 'test_out/unit.xml',
+            suite: 'unit'
+        }
+    });
 };
